@@ -5,7 +5,7 @@ html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pr
 
 html {
 	font-family: Helvetica, Arial;
-	background: #141414 url('../images/background.png') no-repeat;
+	background: #141414 url('https://github.com/poojadishu9/learnwell/blob/master/background.png') no-repeat;
 }
 
 body {
@@ -123,7 +123,7 @@ p.dataHeaders{
   color: #FFF;
   height: 45px;
   background-color:#5F255C;
-  background-image: url('../images/header_gradient.png');
+  background-image: url('https://github.com/poojadishu9/learnwell/blob/master/header_gradient.png');
 }
 
 
